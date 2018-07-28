@@ -1,1 +1,1 @@
-# ReduxExampleSimpleMessage
+# ReduxReactExample
